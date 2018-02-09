@@ -1,0 +1,66 @@
+* { 
+margin: 0; 
+padding: 0; 
+} 
+body { 
+padding: 50px 50px; 
+} 
+.btn-select { 
+	border: none;
+	outline: none;
+	color: #fff;
+	background: #e55353;
+	padding: 5px 5px;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	-webkit-appearance: none;
+	border-radius: 0.3em;
+	border-bottom: 3px solid rgba(30, 30, 30, 0.65);
+	-webkit-border-radius: 0.3em;
+	-moz-border-radius: 0.3em;
+	-o-border-radius: 0.3em;
+	-ms-border-radius: 0.3em;
+
+
+} 
+.btn-select .cur-select { 
+	border: none;
+	outline: none;
+	color: #fff;
+	background: #e55353;
+	padding: 5px 5px;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	-webkit-appearance: none;
+	border-radius: 0.3em;
+	border-bottom: 3px solid rgba(30, 30, 30, 0.65);
+	-webkit-border-radius: 0.3em;
+	-moz-border-radius: 0.3em;
+	-o-border-radius: 0.3em;
+	-ms-border-radius: 0.3em;
+
+} 
+.btn-select:hover .cur-select{ 
+background-color: #000; 
+} 
+.btn-select select { 
+position: absolute; 
+top: 0; 
+left: ; 
+width: 180px; 
+height: 25px; 
+opacity: 0; 
+filter: alpha(opacity: 0;); 
+font: 14px/20px "Microsoft YaHei"; 
+color: #f00; 
+} 
+.btn-select select option { 
+text-indent: 10px; 
+} 
+.btn-select select option:hover { 
+background-color: #000; 
+color: #fff; 
+} 
+

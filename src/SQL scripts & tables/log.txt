@@ -1,0 +1,840 @@
+2015-05-29	09:22:49
+Mysql Error 1062: Duplicate entry '201505290800' for key 'date'
+ 
+2015-05-31	21:58:47
+Mysql Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '20,,01,,3,,0)' at line 1
+ 
+2015-05-31	21:59:52
+Mysql Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '20,,01,,3,,0)' at line 1
+ 
+2015-06-01	19:50:38
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506011950&appid=06c236&key=TF3kC6KuYjJwD+9CgR8DX8Bd06g=
+
+22
+
+03
+
+3
+
+0
+Mysql Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '22,,03,,3,,0)' at line 1
+ 
+2015-06-03	19:04:48
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506031904&appid=06c236&key=UuuYToI3yqSM3wOSWPn1oSqDecE=
+
+20
+
+02
+
+1
+
+0
+Mysql Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '20,,02,,1,,0)' at line 1
+ 
+2015-06-04	07:30:12
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506040730&appid=06c236&key=UMmnLPnzwJEPn21WJ49pQ6nxRKM=
+
+20
+
+02
+
+1
+
+0
+Mysql Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '20,,02,,1,,0)' at line 1
+ 
+2015-06-04	08:06:30
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506040806&appid=06c236&key=mUmzGOh2HJJL/Yd+Zxp3FR7qPwo=
+26
+19
+01
+07
+3
+4
+0
+0
+success!
+ 
+2015-06-05	08:22:15
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506050822&appid=06c236&key=D0uVxk3Rp+myeNFtrISDZ3Uv2Sk=
+28
+20
+01
+00
+6
+4
+0
+0
+success!
+ 
+2015-06-06	12:06:59
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506061207&appid=06c236&key=YZXUcdu8NDKt4r7gRMiJKyswx+I=
+success!
+ 
+2015-06-06	12:13:55
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506061213&appid=06c236&key=Zb7QkMf/t55jtdZ905fo8Z2U+aw=
+Mysql Error 1062: Duplicate entry '201506061100' for key 'date'
+ 
+2015-06-07	12:13:57
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506071213&appid=06c236&key=PCmQgr407fUvN0/TyDF6Tznxurg=
+ 
+2015-06-07	17:15:34
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506071715&appid=06c236&key=6va7ycffziOyE9906X5/eaYj5gA=
+success!
+ 
+2015-06-08	12:13:57
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506081213&appid=06c236&key=ZCu9x1vkhBSUIfY/6oKw8wG0bQA=
+success!
+ 
+2015-06-08	17:15:36
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506081715&appid=06c236&key=aXNbtWBhVFDQ+T4C1J0PAoOzuLQ=
+Mysql Error 1062: Duplicate entry '201506081100' for key 'date'
+ 
+2015-06-09	09:58:26
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506090958&appid=06c236&key=U/VDhq1sMuZw5vkOHrkHow2dXKA=
+success!
+ 
+2015-06-09	12:13:59
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506091213&appid=06c236&key=hle5Xik/H+Ke5+bZo2ggYL8U9Ao=
+success!
+ 
+2015-06-09	17:15:37
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506091715&appid=06c236&key=yHKoki7wjcfaDetvZ5hUV5zHr3U=
+ 
+2015-06-10	09:58:27
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506100958&appid=06c236&key=+ua+ARytu5zr6ydMQ7XPb0abQ94=
+success!
+ 
+2015-06-10	12:14:00
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506101214&appid=06c236&key=9YO4bGmJeKm4Ml/dVvPOpEw8bns=
+success!
+ 
+2015-06-10	17:15:38
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506101715&appid=06c236&key=NqEdrPQYGe5Y9P4zJQ/E8ZW4o9E=
+Mysql Error 1062: Duplicate entry '201506101100' for key 'date'
+ 
+2015-06-11	09:58:28
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506110958&appid=06c236&key=1YMJtY6tv4TEzpGRk5lhj6vHjgM=
+success!
+ 
+2015-06-11	12:14:01
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506111214&appid=06c236&key=v0KJv9L/MTO372f7c9LaeBBm/yY=
+success!
+ 
+2015-06-11	17:15:39
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506111715&appid=06c236&key=Uby4G3lnDCTLn4aAcgtN30yyd4E=
+Mysql Error 1062: Duplicate entry '201506111100' for key 'date'
+ 
+2015-06-12	09:58:30
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506120958&appid=06c236&key=2wQwTZ+cw/MwsqiG+J90cCbCM00=
+success!
+ 
+2015-06-12	12:14:03
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506121214&appid=06c236&key=JRlGIaow6VOzxSkKjpM5CUowfPc=
+success!
+ 
+2015-06-12	17:15:41
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506121715&appid=06c236&key=rvaS4i8aM4UhcZmkyZwP4zTobpk=
+Mysql Error 1062: Duplicate entry '201506121100' for key 'date'
+ 
+2015-06-13	09:58:31
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506130958&appid=06c236&key=bWXn7r63Mpz4caxVn5oqAtRTU8g=
+success!
+ 
+2015-06-13	12:14:04
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506131214&appid=06c236&key=l2RLbySrSR+vM/mxU227f8Z6lO8=
+success!
+ 
+2015-06-13	17:15:42
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506131715&appid=06c236&key=rGmwbABE90xD62CCc1mO0MQ9UHU=
+Mysql Error 1062: Duplicate entry '201506131100' for key 'date'
+ 
+2015-06-14	12:41:41
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506141241&appid=06c236&key=9XVu5J668UB1OwyLOrifz6+FQ+0=
+success!
+ 
+2015-06-15	09:00:24
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506150900&appid=06c236&key=o1mYfYaIPjV9B0YIq0rQ4lthcow=
+success!
+ 
+2015-06-15	12:41:43
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506151241&appid=06c236&key=C6EM0M/Wc1IsIsWPunsBbtw0RdM=
+success!
+ 
+2015-06-16	09:00:26
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506160900&appid=06c236&key=ZyGgl5DJmMf2k5stbtrwvZ6b4wk=
+success!
+ 
+2015-06-16	12:08:15
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506161208&appid=06c236&key=ysOwunEFi7rE5zZomCkDCnFOhyc=
+Mysql Error 1062: Duplicate entry '201506161100' for key 'date'
+ 
+2015-06-16	12:11:51
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506161211&appid=06c236&key=1QuAqdNee35snz6Zy5PlwhBp7pc=
+Mysql Error 1146: Table 'weather.guangzhou' doesn't exist
+ 
+2015-06-16	12:14:28
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506161214&appid=06c236&key=jFNBroUVybu0l+HOT0mUUNkDw3g=
+guangzhou success!
+ 
+2015-06-16	12:15:38
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506161215&appid=06c236&key=W6vcOInRApbqGPrV8Bv9BURkHXI=
+suzhou success!
+ 
+2015-06-16	12:41:45
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506161241&appid=06c236&key=M+Wrn+0Pp6eVxoMFVZ7nN2NWmtI=
+shanghai success!
+ 
+2015-06-17	08:30:46
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506170830&appid=06c236&key=qE/xsukhU/RVUclA74O+yvFhSRQ=
+beijing success!
+ 
+2015-06-17	08:31:02
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506170831&appid=06c236&key=kwT+cfb84cd057IhQwctD0JqUag=
+guangzhou success!
+ 
+2015-06-17	08:31:14
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506170831&appid=06c236&key=NY2jx6IO6SShU83AOpWwRF2nG14=
+suzhou success!
+ 
+2015-06-17	09:00:27
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506170900&appid=06c236&key=omKKDUZJfiVSZj1gesHr06UA31E=
+shanghai success!
+ 
+2015-06-17	12:08:17
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506171208&appid=06c236&key=90hhYLv++0Iqek4lE3DCaCmEvQU=
+beijing success!
+ 
+2015-06-17	12:11:52
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506171211&appid=06c236&key=8JaqC8tw7XKcVaoqKB3OI/SBJrw=
+guangzhou success!
+ 
+2015-06-17	12:15:40
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506171215&appid=06c236&key=Jcx9/xpW7xKl9xH2u6cTuiNKNHM=
+suzhou success!
+ 
+2015-06-17	12:41:47
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506171241&appid=06c236&key=W/JKB/mDQSZGBN95mkCNIg2Ufjk=
+shanghai success!
+ 
+2015-06-18	08:30:47
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506180830&appid=06c236&key=q6jEFuikU2HsnEdO+4azMFSezD4=
+beijing success!
+ 
+2015-06-18	08:31:03
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506180831&appid=06c236&key=vqx2LKDppRlN8tnIanMio2gbytk=
+guangzhou success!
+ 
+2015-06-18	08:31:15
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506180831&appid=06c236&key=/2TJVNcIU8oaoghHdgBtQaCa+J4=
+suzhou success!
+ 
+2015-06-18	09:00:28
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506180900&appid=06c236&key=tbsYpXfnq7vC0wsxJarj5Ccd3lU=
+shanghai success!
+ 
+2015-06-18	09:31:58
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506180931&appid=06c236&key=mGsZ8cWZ+hrtd/d3BoffVDqEpwY=
+Mysql Error 1062: Duplicate entry '201506180800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506180931&appid=06c236&key=SgvkGX0Afo+mUIbHc2gYCEl8Oio=
+Mysql Error 1062: Duplicate entry '201506180800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506180931&appid=06c236&key=11pAR7P8WgvaBsxr5npHr4nfXpM=
+Mysql Error 1062: Duplicate entry '201506180800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506180931&appid=06c236&key=Y2kG7Z6IiUhtmzAijK2Bf5mP9UQ=
+Mysql Error 1062: Duplicate entry '201506180800' for key 'date'
+ 
+2015-06-18	11:04:54
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506181104&appid=06c236&key=B8VbS2c3/u/4o7jehdSzST5TAJk=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506181104&appid=06c236&key=AwcnajWZ840CC9eEHgaw31s3OE0=
+ 
+2015-06-18	11:08:41
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506181108&appid=06c236&key=WkkbY1MDigwihe+xWk2xZD2qcwE=
+Mysql Error 1062: Duplicate entry '201506181100' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506181108&appid=06c236&key=tI4k8p3rQJv7Mvc8vGoJ5j1xKZE=
+Mysql Error 1062: Duplicate entry '201506181100' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506181108&appid=06c236&key=pbATUa6Op+5TjKlD3gW7YoY0MS4=
+Mysql Error 1062: Duplicate entry '201506181100' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506181108&appid=06c236&key=LUnAUmFpBzfjQTge94kHaFoOzb0=
+Mysql Error 1062: Duplicate entry '201506181100' for key 'date'
+ 
+2015-06-19	09:33:11
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506190933&appid=06c236&key=NzWCJq8dY5g5TYFe4SjQMfOEPoI=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506190933&appid=06c236&key=ZdGe95Ym1jFfoulSsPuwI2DQXH0=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506190933&appid=06c236&key=pIcVfavebDPcxZMgAslNQKgiHrk=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506190933&appid=06c236&key=R9JWw2SVo9at6Ff56vKeWSxEYOg=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506190933&appid=06c236&key=hCHUVfw+WSoyuqqw/EvHVsWK6sM=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506190933&appid=06c236&key=4nhHwuLb9hGvCH/gnU5UyqoaDos=
+success!
+ 
+2015-06-19	11:08:44
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506191108&appid=06c236&key=1U/Pse/8d362XnUx5tIfgA/on4U=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506191108&appid=06c236&key=hWOmLf2ymp4VMVf9yXb5I7G6fjs=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506191108&appid=06c236&key=vv3DCyIHl/tKub/CQOWtji7HvwY=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506191108&appid=06c236&key=2xTFeQSXic5N2GqUsELzeeg6cks=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506191108&appid=06c236&key=m38L33NlQBY70QIN5FR8KbsDYgw=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506191108&appid=06c236&key=CntA+Jm/oqvZ1HNrIFSblCssgXM=
+success!
+ 
+2015-06-20	08:58:37
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506200858&appid=06c236&key=1Npjxjk1HjZBFg8m6PZIaIWnqKQ=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506200858&appid=06c236&key=SGhhtYUI0Gthv78UZrAerbp2OUc=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506200858&appid=06c236&key=X4aeg4x1ywSsibS3hAAl9PbfKdM=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506200858&appid=06c236&key=7kN7XNzoMXtW1BOOC7ncjKftTxI=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506200858&appid=06c236&key=hxUevovWm26mvGRkR+BexZFC2xE=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506200858&appid=06c236&key=WEvTRClydYowVPC1PzzfwaUEPz4=
+success!
+ 
+2015-06-20	09:33:14
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506200933&appid=06c236&key=WZ/E7SQ5cvrg38o0WHu027G8SmQ=
+Mysql Error 1062: Duplicate entry '201506200800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506200933&appid=06c236&key=rH/jBHKE8QELR/VapoodrKrbg7g=
+Mysql Error 1062: Duplicate entry '201506200800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506200933&appid=06c236&key=zBVSHWGs4cjhgbS4cAp/KSNsOfs=
+Mysql Error 1062: Duplicate entry '201506200800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506200933&appid=06c236&key=DbT36SJZXKUWTREsjbexnxKcIfk=
+Mysql Error 1062: Duplicate entry '201506200800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506200933&appid=06c236&key=hdACIuR946CVxDyD6pd72Jn4EAk=
+Mysql Error 1062: Duplicate entry '201506200800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506200933&appid=06c236&key=5pnLxIpBE/4fdTPkxUFaWSjQrRU=
+Mysql Error 1062: Duplicate entry '201506200800' for key 'date'
+ 
+2015-06-20	11:08:46
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506201108&appid=06c236&key=M/+B2jeIPWFI9jOOpfEJ2V36rhY=
+ 
+2015-06-21	08:58:39
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506210858&appid=06c236&key=lG6mLALCw12vEsjudp1qkQ6fOTk=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506210858&appid=06c236&key=zlh4Awsou2Slg0yMyqSzUBIdNYE=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506210858&appid=06c236&key=nX02cIIwhN+r7v9Nc2tGRru0bn4=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506210858&appid=06c236&key=zmM5BTP3w3cUegKjtw4e6prMN9k=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506210858&appid=06c236&key=KzcVUmrCJ1Lhs2kdHpbxNtoSnEg=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506210858&appid=06c236&key=Wj8IMSQWE5XPuW+gTkdbEurR0PY=
+ 
+2015-06-21	09:33:16
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506210933&appid=06c236&key=MHY6JvID+tI7CMDxAtwUGIrOwqo=
+Mysql Error 1062: Duplicate entry '201506210800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506210933&appid=06c236&key=qIJSTSjue6rvc8jGxgewpVZmxOY=
+Mysql Error 1062: Duplicate entry '201506210800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506210933&appid=06c236&key=z3eqOVRBneNspNDu4+oCJrml9Go=
+Mysql Error 1062: Duplicate entry '201506210800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506210933&appid=06c236&key=xt7lgobDb9ay6v1PJOGn4W8qDLU=
+Mysql Error 1062: Duplicate entry '201506210800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506210933&appid=06c236&key=qrTXrzQmaXKVjwXW118pKHXKNmI=
+Mysql Error 1062: Duplicate entry '201506210800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506210933&appid=06c236&key=3OpnDrLpYwqdQgBG3zpOMgDEJgs=
+success!
+ 
+2015-06-21	11:08:47
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506211108&appid=06c236&key=W3cjdIlbkXkRswDW/fBwri57lCU=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506211108&appid=06c236&key=tWFRacgOqXjgw75VyEEsQvaB6N0=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506211108&appid=06c236&key=Q0lCeK9jiF4LGnNil4XrReZrIVI=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506211108&appid=06c236&key=G+Wav9LRyPJCrETmJquat5hdcxo=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506211108&appid=06c236&key=wwugirxrxoCqQVbjb956j+k+xFg=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506211108&appid=06c236&key=JstPkJTmoVjYcktJPykT/L8YnNM=
+success!
+ 
+2015-06-22	08:58:42
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506220858&appid=06c236&key=geavIHm2M3oshI5nZTKGwSe0RgI=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506220858&appid=06c236&key=q2Ozijbn/Lm/q903j1sds+Pjk+s=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506220858&appid=06c236&key=ONzL6z1Euv1FQWfPCenWkKLD9EE=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506220858&appid=06c236&key=Vq/NOgfWm1VvHZ2fyrUkt8Fe+90=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506220858&appid=06c236&key=B+Ug3qRNW3T+eMql0NrzxPsXJyE=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506220858&appid=06c236&key=Dry8R7GJZcH9mrPpFkoZHtU8yI4=
+success!
+ 
+2015-06-22	09:33:19
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506220933&appid=06c236&key=F9vistHj9vt8iM3QzOBQpVmh8mU=
+Mysql Error 1062: Duplicate entry '201506220800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506220933&appid=06c236&key=+IKW+gh/8fopo6iMn3dzGv7kzKs=
+Mysql Error 1062: Duplicate entry '201506220800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506220933&appid=06c236&key=4ckFypIMy22q2wdPAnvu3LGZdCg=
+Mysql Error 1062: Duplicate entry '201506220800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506220933&appid=06c236&key=SBArUudNNkeD7NmhzRA3WVHUk8A=
+Mysql Error 1062: Duplicate entry '201506220800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506220933&appid=06c236&key=zDkPyM3H3i0RTsHkbJiEzB7P68s=
+Mysql Error 1062: Duplicate entry '201506220800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506220933&appid=06c236&key=VtMWGmnQWcH7A8Mix1SPhApBRUA=
+Mysql Error 1062: Duplicate entry '201506220800' for key 'date'
+ 
+2015-06-22	11:08:49
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506221108&appid=06c236&key=CjyevATAyK26AW/qqhEEgkiczc0=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506221108&appid=06c236&key=RG5KsfhX10rfj++QSJuBboJFB+g=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506221108&appid=06c236&key=sq9jCngQ+KJUXXb2+S33chgzW2c=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506221108&appid=06c236&key=fY7lsM4IQuZp681a5j5NHYTMpg4=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506221108&appid=06c236&key=9FsaFW1rv20rhg+937I9OjXQiFg=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506221108&appid=06c236&key=iYHg0tsOEmTHby0oSix2JZfoH3o=
+success!
+ 
+2015-06-23	08:58:44
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506230858&appid=06c236&key=QyYyhqmFSwCasmS3fAyJ9IHcPDk=
+ 
+2015-06-23	09:33:21
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506230933&appid=06c236&key=JmLkZ+YCjfyGe+MWvN27zACwUk8=
+ 
+2015-06-23	11:08:51
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506231108&appid=06c236&key=GYKPf1D6c0UN4lT2OetEPS6i9mc=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506231108&appid=06c236&key=Vx2SNcI22oKXlXfqdAegY2EYymo=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506231108&appid=06c236&key=xrE6Zv1cNOJ5MZ+MPaly9rN/+94=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506231108&appid=06c236&key=hjQI6JyFAKCtsqY6TFe71UJG3ZM=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506231108&appid=06c236&key=8odzEeqpT1iJyefKJEyCfL7glTo=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506231108&appid=06c236&key=raSDhjwfrMAvoWvhYt0Enx75PZU=
+success!
+ 
+2015-06-24	08:59:25
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506240859&appid=06c236&key=Rzs9MwIvYX2VGZXoOU4foksbHTs=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506240859&appid=06c236&key=rEON7SBe2wpEI0X7YpKnNofo8Lg=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506240859&appid=06c236&key=KgU15IVMLf33QFR0cZ4QKUw9lZY=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506240859&appid=06c236&key=66sKb8OmLntK9IPY49xOGuKu+Os=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506240859&appid=06c236&key=/LXbMB9YnkV/EYVLnNE9Ocbk3CI=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506240859&appid=06c236&key=T1LlFyhsISoaSRmLhloVt6xoi5U=
+success!
+ 
+2015-06-24	09:34:02
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506240934&appid=06c236&key=1drp2Pmw+11kMjoVEWy+JlGAmiM=
+Mysql Error 1062: Duplicate entry '201506240800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506240934&appid=06c236&key=J/+6Kyq8XDCGOoRRxrbK+e5mdn8=
+Mysql Error 1062: Duplicate entry '201506240800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506240934&appid=06c236&key=TNziPTxz3Xymr/ZUheU10T7qxZA=
+Mysql Error 1062: Duplicate entry '201506240800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506240934&appid=06c236&key=Xe3YvXwWI6KuSJbXJJ1I6uLOHX4=
+Mysql Error 1062: Duplicate entry '201506240800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506240934&appid=06c236&key=b6q46TH3GCIMoZ66lz8UJiYCIkg=
+Mysql Error 1062: Duplicate entry '201506240800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506240934&appid=06c236&key=espo3mxfcTvnzWdl6fGLfl8BSuc=
+Mysql Error 1062: Duplicate entry '201506240800' for key 'date'
+ 
+2015-06-24	11:08:53
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506241108&appid=06c236&key=dpHyM49It+andbos6TH177foqSQ=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506241108&appid=06c236&key=EarUJ9A3Dq/5wc8o4stf7IKqOzc=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506241108&appid=06c236&key=GgQaPvAcZuT1O4weafvVHnA4A8E=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506241108&appid=06c236&key=gtWONXuGuYGU+I1W1qK6qrwdons=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506241108&appid=06c236&key=eVWpHVbdx3uWc8ghNcfz6lG1hCo=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506241108&appid=06c236&key=C9/R7LQjwxitzPuysxAiiDolI3Q=
+success!
+ 
+2015-06-25	08:59:27
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506250859&appid=06c236&key=qNsdxRhsOsYklJfy6yFiGNGN+bc=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506250859&appid=06c236&key=/SFyDjXyIH91TrY8nSFMr++Xskc=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506250859&appid=06c236&key=34FapsNvqKBIP9N8xptPjQWXvTc=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506250859&appid=06c236&key=E9O8kFOqupN9sZ6Rz1M3dcj2fec=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506250859&appid=06c236&key=JqAOqZZ3Jq2Yl6GC8fLA3323XRc=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506250859&appid=06c236&key=jnSIdSlNME5tUPcufaUhaflaa0A=
+success!
+ 
+2015-06-25	09:34:04
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506250934&appid=06c236&key=pGeXEIKjg61qjT0NeakKwRSuLjc=
+Mysql Error 1062: Duplicate entry '201506250800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506250934&appid=06c236&key=4eN5MJn4i1Gk3BpvR7HRZdrWyZg=
+Mysql Error 1062: Duplicate entry '201506250800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506250934&appid=06c236&key=FXDXT+Z0XZbxUaW+vcXXyNRg4UI=
+Mysql Error 1062: Duplicate entry '201506250800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506250934&appid=06c236&key=vzZv4FNlRXctrW2U8c9JAc0R6V4=
+Mysql Error 1062: Duplicate entry '201506250800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506250934&appid=06c236&key=U7n43DNzljDi5t/gNIgMlQrFJCY=
+Mysql Error 1062: Duplicate entry '201506250800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506250934&appid=06c236&key=C9RErCQ/MQxpEYEpBg1lA9PnZfY=
+Mysql Error 1062: Duplicate entry '201506250800' for key 'date'
+ 
+2015-06-25	11:08:56
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506251108&appid=06c236&key=Y43mUoybh80Jwo/ZtPiTGL5yHOo=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506251108&appid=06c236&key=NswPFNLsPV3RtOtmjWjs1c8jB40=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506251108&appid=06c236&key=rt+bZfyiWRsxnYkdgf5eANkN/1o=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506251108&appid=06c236&key=xHbBwh5sZS9vo4DXmPlkMuoKWgo=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506251108&appid=06c236&key=QeuS1w0RsJ+e1PKjln5/4jjG8vU=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506251108&appid=06c236&key=zVGTa150lBUbBrWpIRblaMNJhTA=
+success!
+ 
+2015-06-26	08:59:29
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506260859&appid=06c236&key=C9VXX43LoyjBP9FkTmSUKy7jtm4=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506260859&appid=06c236&key=ZP5aEPIICnDr3odi55iTAfr1uzM=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506260859&appid=06c236&key=Gx+5wJWNJkSyQA/7cJ/n1p487KQ=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506260859&appid=06c236&key=0uueH3GTYUAso2WpPqqpmwXLd5A=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506260859&appid=06c236&key=UgvHZAsBsGigJwUhwKSIZzOJ4b4=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506260859&appid=06c236&key=xj2eE6LjzVTVNbXsCjAIXSxw7O8=
+success!
+ 
+2015-06-26	09:34:06
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506260934&appid=06c236&key=CzkskXWZZmFpsndHK9z8eWHD0cw=
+Mysql Error 1062: Duplicate entry '201506260800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506260934&appid=06c236&key=Q25EWP7naQL8Ckx9SrkiJOFsDM0=
+Mysql Error 1062: Duplicate entry '201506260800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506260934&appid=06c236&key=wlw0eHTWu0CRM4uNHZl3j68YhqY=
+Mysql Error 1062: Duplicate entry '201506260800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506260934&appid=06c236&key=GIzwbZyaFFR2wC7lY0fZxPS4eOY=
+Mysql Error 1062: Duplicate entry '201506260800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506260934&appid=06c236&key=t/xjo3TEQAXqdaaF65z6K48Dzk4=
+Mysql Error 1062: Duplicate entry '201506260800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506260934&appid=06c236&key=dRs8eFnjd8EPQ2B6uNmwaVMJNpY=
+Mysql Error 1062: Duplicate entry '201506260800' for key 'date'
+ 
+2015-06-26	11:08:59
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506261108&appid=06c236&key=mfjxgg60uT2AG4/xmAxbzau+p/0=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506261108&appid=06c236&key=ljE+4nNAk4XWJ31IbU/moIbZeAY=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506261108&appid=06c236&key=hxPnoLcsnsN1dwoBrPt1JsYmbzw=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506261108&appid=06c236&key=ssLoCGWkg0vsYdxuidWR5kPjlo4=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506261108&appid=06c236&key=P993lBXtYs5KNF8G6FEsbat+JcA=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506261108&appid=06c236&key=ObT8gi5Lqc7ssiiUoi7XFSG8OCk=
+success!
+ 
+2015-06-27	08:59:31
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506270859&appid=06c236&key=e2RURhGyFzj8FKbeg+N45B6tihw=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506270859&appid=06c236&key=sZN+vuuzEEG4XaqhMzElK49IQ94=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506270859&appid=06c236&key=7tE66BeU/N3s0JOC0MoEQOCI2zU=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506270859&appid=06c236&key=l+nR772KeEOfo71+cl7J9YHNGMs=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506270859&appid=06c236&key=kVgssq6RhIx7nSCT9gQuI0i4Tps=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506270859&appid=06c236&key=GGLTslnkwN1llIag3wSqNdTEMeA=
+success!
+ 
+2015-06-27	09:34:11
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506270934&appid=06c236&key=yiIY9EzTDX0+T3ftXHJnKi3Eoyg=
+ 
+2015-06-27	11:09:02
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506271109&appid=06c236&key=2XvakYkMJOKX4qV0eEp+c9c3cFg=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506271109&appid=06c236&key=FhanGzl1WPC2FieoWi0qjgez7FM=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506271109&appid=06c236&key=ICVCHoao1V3O7x1cEjMkrpj2j1Y=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506271109&appid=06c236&key=nzyk3nGgRnmxVxGndpR6KZIrZvQ=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506271109&appid=06c236&key=ZiOTrpJPZqFBttJVsq9ncvZSu78=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506271109&appid=06c236&key=lzQewRiCoNrQ57fvKRVSQS9gKOU=
+success!
+ 
+2015-06-28	08:59:33
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506280859&appid=06c236&key=v0UT5pavp/z82MEsWE5lwlc5HKE=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506280859&appid=06c236&key=KqBMYA0dB/oa+uBJ+tmYDE9GARA=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506280859&appid=06c236&key=P4kqSuOzQF4DMfxTlzszxtyN5uU=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506280859&appid=06c236&key=xosI0+zYnBdP4F731fE5Dat3I+o=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506280859&appid=06c236&key=PoMxZpO8qWMH+GgddNoK9Xp9c90=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506280859&appid=06c236&key=rWEo242CAAN8Tqr+oc4m6fm6tAc=
+success!
+ 
+2015-06-28	09:34:12
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506280934&appid=06c236&key=4D+0pKeWE68RiERZcHRllVTI0mM=
+Mysql Error 1062: Duplicate entry '201506280800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506280934&appid=06c236&key=FNysaCSZ6bxwzBkGug3qcEaJ1b0=
+Mysql Error 1062: Duplicate entry '201506280800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506280934&appid=06c236&key=2o1r6c/4MqgeMbjAWCeycISzwxU=
+Mysql Error 1062: Duplicate entry '201506280800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506280934&appid=06c236&key=35dzRYO/Et+Yi9GWRmPGiKEOHJw=
+Mysql Error 1062: Duplicate entry '201506280800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506280934&appid=06c236&key=ftDkuvxN4WujP+L3SwPXrijXhxc=
+Mysql Error 1062: Duplicate entry '201506280800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506280934&appid=06c236&key=VzMhAhuPXHmCDKxFx0apgME99B8=
+Mysql Error 1062: Duplicate entry '201506280800' for key 'date'
+ 
+2015-06-28	11:09:05
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506281109&appid=06c236&key=F5RZUvC/PBKPILN8DFj3H9KwREE=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506281109&appid=06c236&key=YrDbFySThlnlU3W3UjjYHBVxmqU=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506281109&appid=06c236&key=WYfYQ7wQPfeua0NZgB268OxOOFA=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506281109&appid=06c236&key=rCZ+N6MQlsXRkk3ACCX7OyJCzm4=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506281109&appid=06c236&key=RaPKNVJ7Mj8dDSOgdtLo6pic1t8=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506281109&appid=06c236&key=T+2wRg1ZAWU9EsxhvVjBQ3ikTO8=
+success!
+ 
+2015-06-29	08:59:35
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506290859&appid=06c236&key=Nvobmmsj6DJybTk9dWWdvm9+04s=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506290859&appid=06c236&key=z9RAsq5CoNwzshdDEcYvtCFUOLg=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506290859&appid=06c236&key=RsAzkjr+OX4qLdr0MsBTfLnBEMU=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506290859&appid=06c236&key=CeEIFBgBTAxbY4Rogn8v7t9STsw=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506290859&appid=06c236&key=2iCTNwJ5kTgyuTgVy0dVYwSgMzo=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506290859&appid=06c236&key=n+wS3Fv3T3/NyOCZQdcf+19Kgxc=
+success!
+ 
+2015-06-29	09:34:14
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506290934&appid=06c236&key=JQXGCWa6xsYZYkElncn00zn2kTk=
+Mysql Error 1062: Duplicate entry '201506290800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506290934&appid=06c236&key=7ELgAdXNe+K5R2x5lH856yFsFwc=
+Mysql Error 1062: Duplicate entry '201506290800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506290934&appid=06c236&key=dl6w16iOGg0gy4EAwoGKCfY4hjM=
+Mysql Error 1062: Duplicate entry '201506290800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506290934&appid=06c236&key=lwNTCHOgOu1YgUIndGFsLhnX1Co=
+Mysql Error 1062: Duplicate entry '201506290800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506290934&appid=06c236&key=bCy9LGto+DtOUZOUPaCosU6dj3w=
+Mysql Error 1062: Duplicate entry '201506290800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506290934&appid=06c236&key=C6ZNuvpRBqqkw+stfIgdb2svye4=
+Mysql Error 1062: Duplicate entry '201506290800' for key 'date'
+ 
+2015-06-29	11:09:07
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506291109&appid=06c236&key=wrFZZS60ZzfrSITaRYPGa+mIGdE=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506291109&appid=06c236&key=GNKXJ65e5rFcTV9Idq3IbCwPqA0=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506291109&appid=06c236&key=/PQNjct2jB3qd7/rI7lUUOEmYmU=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506291109&appid=06c236&key=sfwCSCtApx07JVc8uTxOvoMEXUs=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506291109&appid=06c236&key=A8F8b7nMSFiar+W1wcTxuF1FvL8=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506291109&appid=06c236&key=1fmoVGl37is3G/lpiKIwUMn9l8I=
+success!
+ 
+2015-06-30	08:59:37
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506300859&appid=06c236&key=K7Om5YDA2lWS7DSBqhfx2KA8djI=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506300859&appid=06c236&key=/C/SlgHjHerLXpCVPACWdufv4rI=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506300859&appid=06c236&key=4oqlf0XjeNnYHoIGeLHHDGcf/uI=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506300859&appid=06c236&key=AaFW1qcLBPjT1ahIM0Gwv9i0eGg=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506300859&appid=06c236&key=7AI0AshXAH1F+8w3cjRZiMk/tJw=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506300859&appid=06c236&key=3AFizDvQQInMmHcbVahJjeNSXT4=
+success!
+http://open.weather.com.cn/data/?areaid=101220601&type=forecast_f&date=201506300859&appid=06c236&key=J7UbERP8vm106/ODuvNKKyu0380=
+success!
+ 
+2015-06-30	09:34:16
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506300934&appid=06c236&key=GnGz6zx7gkFrs4FsweFLYkbdrVE=
+Mysql Error 1062: Duplicate entry '201506300800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506300934&appid=06c236&key=NFnm4VjUb9k2yp//7FbdGzFquZo=
+Mysql Error 1062: Duplicate entry '201506300800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506300934&appid=06c236&key=cnLF9jCixkEtQP3dfaH+Z2Goliw=
+Mysql Error 1062: Duplicate entry '201506300800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506300934&appid=06c236&key=sP0ypgiO+hsoyPXzHMQ/tLa96Cc=
+Mysql Error 1062: Duplicate entry '201506300800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506300934&appid=06c236&key=mDCvlBZJQMLPZ2Zy16jmLPDGcyc=
+Mysql Error 1062: Duplicate entry '201506300800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506300934&appid=06c236&key=IgW+6hpl+r9Lat41JVrd5E559N4=
+Mysql Error 1062: Duplicate entry '201506300800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101220601&type=forecast_f&date=201506300934&appid=06c236&key=Lzo6TdPq+G8KT8L2aQCK3F89kUA=
+Mysql Error 1062: Duplicate entry '201506300800' for key 'date'
+ 
+2015-06-30	11:09:10
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201506301109&appid=06c236&key=MmGM5QzbpKCxSI+vrZ1dHvCFw64=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201506301109&appid=06c236&key=hwMp0BGsThqMWZGdbKRshx01+R8=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201506301109&appid=06c236&key=qJS3PN1VxboEOExqnnoK7gi4KCk=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201506301109&appid=06c236&key=8GT1RMNWKeR+VLnycOMCEYUuYtk=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201506301109&appid=06c236&key=hhIwBYWN1ydjXGspYeu6jSABBls=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201506301109&appid=06c236&key=FyNJMUaWUUWBEw4eCoJDQYO1rrU=
+success!
+http://open.weather.com.cn/data/?areaid=101220601&type=forecast_f&date=201506301109&appid=06c236&key=Iyvx7g3jcODdlLYy+h16EkxOTZk=
+success!
+ 
+2015-07-01	08:59:38
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201507010859&appid=06c236&key=y3mCu7v3nQ+bSyE0085b48jCTUw=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201507010859&appid=06c236&key=i8t40jRUVBes5EA32DKY0/tUUvo=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201507010859&appid=06c236&key=FXwiEnFDFPMgHba0TWhAFnHfAQM=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201507010859&appid=06c236&key=T7syZSkrgx2KaMuX7jwtCaZ6x6w=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201507010859&appid=06c236&key=6F7lwmW9tAgetGmJXkighIn6Zy0=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201507010859&appid=06c236&key=AF4ToVvMJVdlrv2EPNMVxbbirJw=
+success!
+http://open.weather.com.cn/data/?areaid=101220601&type=forecast_f&date=201507010859&appid=06c236&key=abqvtvKAS2yY8F+0K3XCqiMSjVs=
+success!
+ 
+2015-07-01	09:34:18
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201507010934&appid=06c236&key=+nPtvbRSZeEYB9xdzupxjW2OsRE=
+Mysql Error 1062: Duplicate entry '201507010800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201507010934&appid=06c236&key=2wOydjs6pmOS/1aehWuFOEXb1+M=
+ 
+2015-07-01	11:09:13
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201507011109&appid=06c236&key=w/aCnOkQ8nP+aLFHX67eIikmuP8=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201507011109&appid=06c236&key=8jp4HqMgB6MAFthax8SRYsKYPBI=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201507011109&appid=06c236&key=8r7NPZRlI+LH13gJGbsxkjw3XfE=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201507011109&appid=06c236&key=1280dH5lydXf8uAcFwmGhut1KPw=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201507011109&appid=06c236&key=SBsfWvJS0+faEpq93FbUUfPe5h8=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201507011109&appid=06c236&key=Tw1w0BwzVTgvMKNtppIuztvT1BM=
+success!
+http://open.weather.com.cn/data/?areaid=101220601&type=forecast_f&date=201507011109&appid=06c236&key=AFqmK+yx52U7MCuhQcDmaE748z4=
+success!
+ 
+2015-07-02	08:59:40
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201507020859&appid=06c236&key=/rRfIFwhT5lUTHKLINpfNS/zXBg=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201507020859&appid=06c236&key=Xv/9smS0KxgtKhcQmCVkeiskqKY=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201507020859&appid=06c236&key=KaM+lbX7MMwyEHKcfeLp0Kaig5A=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201507020859&appid=06c236&key=l7Nv1RgUNmrnmLa3GCqDGB/BOB8=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201507020859&appid=06c236&key=p+si46KBZ7ptHvs3hrjNU+KJIbQ=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201507020859&appid=06c236&key=Q7KL9I6gK/fySdKgpIcjD/EqaMY=
+success!
+http://open.weather.com.cn/data/?areaid=101220601&type=forecast_f&date=201507020859&appid=06c236&key=NzTT1PB6RmX55r7K2k8cGEE3WKg=
+success!
+ 
+2015-07-02	09:34:19
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201507020934&appid=06c236&key=dSeFKfwb9ojnxfsIlXM7eTRJfSM=
+Mysql Error 1062: Duplicate entry '201507020800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201507020934&appid=06c236&key=yV3s4CB+4TgWAC18qZi+Lqlap3k=
+Mysql Error 1062: Duplicate entry '201507020800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201507020934&appid=06c236&key=w4+SPWv8c+1Vt3Axx/9no+YOAlU=
+Mysql Error 1062: Duplicate entry '201507020800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201507020934&appid=06c236&key=f5TLahhj3y++stu4N4RAixFECq0=
+Mysql Error 1062: Duplicate entry '201507020800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201507020934&appid=06c236&key=d8tY8TOFY3doIkoQ0kNKWCeC/zk=
+Mysql Error 1062: Duplicate entry '201507020800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201507020934&appid=06c236&key=2jhJhV+VcXdd2dcLLiINzaTvCwQ=
+Mysql Error 1062: Duplicate entry '201507020800' for key 'date'
+http://open.weather.com.cn/data/?areaid=101220601&type=forecast_f&date=201507020934&appid=06c236&key=uIP/uz4hj6DLNj5B8oMIkiF0TnY=
+Mysql Error 1062: Duplicate entry '201507020800' for key 'date'
+ 
+2015-07-02	11:09:15
+start fetch information!
+http://open.weather.com.cn/data/?areaid=101020100&type=forecast_f&date=201507021109&appid=06c236&key=3MwaL0yBYhXw5WI9D30g0jmx5WM=
+success!
+http://open.weather.com.cn/data/?areaid=101010100&type=forecast_f&date=201507021109&appid=06c236&key=RAd6EzyOtWZud0RZakFMTwO6+ts=
+success!
+http://open.weather.com.cn/data/?areaid=101280101&type=forecast_f&date=201507021109&appid=06c236&key=N25U0z4opB26hsZAcvXgEJSqc3Q=
+success!
+http://open.weather.com.cn/data/?areaid=101190401&type=forecast_f&date=201507021109&appid=06c236&key=c6VLQZ5HqR7IEO6KH/WFwPDTAwQ=
+success!
+http://open.weather.com.cn/data/?areaid=101030100&type=forecast_f&date=201507021109&appid=06c236&key=RsPafX4KfG9qmxIB4LRFhN9gyUk=
+success!
+http://open.weather.com.cn/data/?areaid=101210901&type=forecast_f&date=201507021109&appid=06c236&key=zfZcEDDLeSR1Jf0oBGS8gX27nDM=
+success!
+http://open.weather.com.cn/data/?areaid=101220601&type=forecast_f&date=201507021109&appid=06c236&key=tmrPoxEKbZbG6OrEUKmZPSEc8UI=
+success!
+ 

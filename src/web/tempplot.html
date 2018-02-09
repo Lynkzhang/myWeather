@@ -1,0 +1,172 @@
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+
+	<title>No</title>
+
+	
+
+	<link rel="stylesheet" href="css/graph.css">
+<meta name="robots" content="noindex,follow" />
+</head>
+
+<body>
+<!-- Graph HTML -->
+<div id="graph-wrapper">
+	<div class="graph-info">
+		<a href="javascript:void(0)" class="visitors">Day</a>
+		<a href="javascript:void(0)" class="returning">Night</a>
+
+		<a href="#" id="bars"><span></span></a>
+		<a href="#" id="lines" class="active"><span></span></a>
+	</div>
+
+	<div class="graph-container">
+		<div id="graph-lines"></div>
+		<div id="graph-bars"></div>
+	</div>
+</div>
+<!-- end Graph HTML -->
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="js/jquery.flot.min.js"></script>
+
+
+<script>
+var tempdata;
+
+
+
+$(document).ready(
+	 $.get("histtemp.php",function(data,status)
+        {window.tempdata=data;	
+	var plotdata;
+	plotdata= jQuery.parseJSON(window.tempdata);
+		
+	// Graph Data ##############################################
+	var graphData = [{
+			// Day temp
+			data: plotdata.dataday,
+			color: '#71c73e'
+		}, {
+			// Night temp
+			//data: [ [1, 5], [2, 6], [3, 5], [4, 6], [5, 8], [6, 9], [7, 8]],
+			data:plotdata.datanight,
+			color: '#77b7c5',
+			points: { radius: 4, fillColor: '#77b7c5' }
+		}
+	];
+
+	// Lines Graph #############################################
+
+	$.plot($('#graph-lines'), graphData, {
+		series: {
+			points: {
+				show: true,
+				radius: 5
+			},
+			lines: {
+				show: true
+			},
+			shadowSize: 0
+		},
+		grid: {
+			color: '#646464',
+			borderColor: 'transparent',
+			borderWidth: 20,
+			hoverable: true
+		},
+		xaxis: {
+			show: false,
+			tickColor: 'transparent',
+			tickDecimals: 2
+		},
+		yaxis: {
+			tickSize: 10
+		}
+	});
+
+	// Bars Graph ##############################################
+	$.plot($('#graph-bars'), graphData, {
+		series: {
+			bars: {
+				show: true,
+				barWidth: .9,
+				align: 'center'
+			},
+			shadowSize: 0
+		},
+		grid: {
+			color: '#646464',
+			borderColor: 'transparent',
+			borderWidth: 20,
+			hoverable: true
+		},
+		xaxis: {
+			show: false,
+			tickColor: 'transparent',
+			tickDecimals: 2
+		},
+		yaxis: {
+			tickSize: 10
+		}
+	});
+
+	// Graph Toggle ############################################
+	$('#graph-bars').hide();
+
+	$('#lines').on('click', function (e) {
+		$('#bars').removeClass('active');
+		$('#graph-bars').fadeOut();
+		$(this).addClass('active');
+		$('#graph-lines').fadeIn();
+		e.preventDefault();
+	});
+
+	$('#bars').on('click', function (e) {
+		$('#lines').removeClass('active');
+		$('#graph-lines').fadeOut();
+		$(this).addClass('active');
+		$('#graph-bars').fadeIn().removeClass('hidden');
+		e.preventDefault();
+	});
+
+	// Tooltip #################################################
+	function showTooltip(x, y, contents) {
+		$('<div id="tooltip">' + contents + '</div>').css({
+			top: y - 16,
+			left: x + 20
+		}).appendTo('body').fadeIn();
+	}
+
+	var previousPoint = null;
+
+	$('#graph-lines, #graph-bars').bind('plothover', function (event, pos, item) {
+		if (item) {
+			if (previousPoint != item.dataIndex) {
+				previousPoint = item.dataIndex;
+				$('#tooltip').remove();
+				var x = item.datapoint[0],
+					y = item.datapoint[1];
+				var timeday = 7-x;
+				if(timeday)
+					showTooltip(item.pageX, item.pageY, y + ' °C at ' + timeday + ' days ago' );
+				else
+					showTooltip(item.pageX, item.pageY, y + ' °C at today' );
+			}
+		} else {
+			$('#tooltip').remove();
+			previousPoint = null;
+		}
+	});
+
+}));
+</script>
+<div id='hhh'></div>
+</body>
+
+</html>
